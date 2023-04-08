@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kadir Kesimal
-- 👀 I’m interested in data science
+  - 👀 I’m interested in Data Science
 
 
 
