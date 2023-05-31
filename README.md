@@ -21,6 +21,6 @@ I am a senior student of Computer Engineering specializing in Data Science. I ha
 
 ## Contact Me
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/kadir-kesimal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px"></a>
+<a href="https://www.linkedin.com/in/kadir-kesimal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px"></a>
 
 Feel free to reach out if you have any questions or opportunities for collaboration in the field of Data Science . I am passionate about working on data-driven projects and always eager to explore new challenges and advancements in this exciting domain.
