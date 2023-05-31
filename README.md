@@ -66,22 +66,6 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
   </a>
 </p>
 
-### Other Tools
-<p align="left">
-  <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" width="120px">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="120px">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="120px">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="120px">
-  </a>
-</p>
-
 
 
 ## Contact Me
