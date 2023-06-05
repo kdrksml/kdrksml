@@ -59,12 +59,7 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
   </a>
 </p>
 
-### Databases
-<p align="left">
-  <a href="[https://www.postgresql.org/](https://www.mysql.com/)">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="120px">
-  </a>
-</p>
+
 
 
 
