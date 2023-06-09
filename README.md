@@ -11,53 +11,54 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
 ### Data Science
 <p align="left">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120px">
+    <img src="https://via.placeholder.com/120?text=Python" alt="Python" width="120px">
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="120px">
+    <img src="https://via.placeholder.com/120?text=Pandas" alt="Pandas" width="120px">
   </a>
   <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="120px">
+    <img src="https://via.placeholder.com/120?text=NumPy" alt="NumPy" width="120px">
   </a>
   <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="120px">
+    <img src="https://via.placeholder.com/120?text=Matplotlib" alt="Matplotlib" width="120px">
   </a>
   <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" width="120px">
+    <img src="https://via.placeholder.com/120?text=Jupyter%20Notebook" alt="Jupyter Notebook" width="120px">
   </a>
 </p>
 
 ### Web Development
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="120px">
+    <img src="https://via.placeholder.com/120?text=HTML" alt="HTML" width="120px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="120px">
+    <img src="https://via.placeholder.com/120?text=CSS" alt="CSS" width="120px">
   </a>
   <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="120px">
+    <img src="https://via.placeholder.com/120?text=JavaScript" alt="JavaScript" width="120px">
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="120px">
+    <img src="https://via.placeholder.com/120?text=Django" alt="Django" width="120px">
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="120px">
+    <img src="https://via.placeholder.com/120?text=Bootstrap" alt="Bootstrap" width="120px">
   </a>
 </p>
 
 ### Mobile Development
 <p align="left">
   <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="120px">
+    <img src="https://via.placeholder.com/120?text=Java" alt="Java" width="120px">
   </a>
   <a href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" width="120px">
+    <img src="https://via.placeholder.com/120?text=Android%20Studio" alt="Android Studio" width="120px">
   </a>
   <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" width="120px">
+    <img src="https://via.placeholder.com/120?text=Firebase" alt="Firebase" width="120px">
   </a>
 </p>
+
 
 
 
