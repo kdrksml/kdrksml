@@ -60,6 +60,8 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
 </p>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/kadir-kesimal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px"></a>
