@@ -59,8 +59,14 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
   </a>
 </p>
 
+## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrksml)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact Me
 
