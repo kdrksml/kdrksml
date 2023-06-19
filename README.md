@@ -65,7 +65,7 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
 
 ## Top Languages
 
-![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrksml"/>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrksml&layout=compact)
 
 
 ## Contact Me
