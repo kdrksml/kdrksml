@@ -61,7 +61,7 @@ I'm a senior student of Computer Engineering specializing in Data Science. I'm p
 
 ## Github Stats
 
-![Kadir Kesimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml&show_icons=true&theme=transparent)
+![Kadir Kesimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml&show_icons=true&theme=vue)
 
 ## Top Languages
 
