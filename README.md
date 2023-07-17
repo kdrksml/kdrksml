@@ -1,6 +1,6 @@
 # Hi, I'm Kadir!
 
-I'm a senior student of Computer Engineering specializing in Data Science. I'm passionate about analyzing data and deriving meaningful insights from it. Here's a little bit about me:
+I'm a newly graduated Computer Engineer specializing in Data Science. I'm passionate about analyzing data and deriving meaningful insights from it. Here's a little bit about me:
 
 - 🔭 I’m currently specializing in data analysis and working on various projects in this field..
 - 🌱 I’m continuously learning and improving my skills in Python, SQL, and data analysis tools.
