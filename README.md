@@ -61,11 +61,11 @@ I'm a newly graduated Computer Engineer specializing in Data Science. I'm passio
 
 ## Github Stats
 
-![Kadir Kesimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml&show_icons=true&theme=vue)
+![Kadir Kesimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrksml&hide=contribs,prs)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrksml&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrksml&size_weight=0.5&count_weight=0.5)
 
 
 ## Contact Me
