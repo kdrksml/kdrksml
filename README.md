@@ -6,46 +6,82 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
 - 🌱 I’m continuously learning and improving my skills in Python, SQL, and data analysis tools.
 - 👯 I’m looking to collaborate on data-driven projects and contribute to open-source projects.
 
-## Languages and Tools
-
+Languages and Tools
 Data Science
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" alt="Scikit Learn" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
+  <a href="https://www.python.org/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
+  </a>
 </p>
 Web Development
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="65" height="65"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="50" height="50"/>
+  </a>
 </p>
 Mobile Development
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="65" height="65"/>
+  <a href="https://www.java.com/">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="50" height="50"/>
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+  </a>
 </p>
 Other Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="65" height="65"/>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="50" height="50"/>
+  </a>
+  <a href="https://slack.com/">
+    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="50" height="50"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="50" height="50"/>
+  </a>
+  <a href="https://trello.com/">
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="50" height="50"/>
+  </a>
 </p>
-
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/kadir-kesimal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px"></a>
