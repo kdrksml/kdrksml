@@ -9,6 +9,7 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
 ## Languages and Tools
 
 <div align="center">Data Science</div>
+
 <p align="center" style="padding: 10px;">
   <a href="https://www.python.org/" style="padding: 10px;">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
@@ -20,7 +21,9 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
   </a>
 </p>
+
 <div align="center">Web Development</div>
+
 <p align="center" style="padding: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="padding: 10px;">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
@@ -44,7 +47,9 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="50" height="50"/>
   </a>
 </p>
+
 <div align="center">Mobile Development</div>
+
 <p align="center" style="padding: 10px;">
   <a href="https://www.java.com/" style="padding: 10px;">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
@@ -59,7 +64,9 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a>
 </p>
+
 <div align="center">Other Tools</div>
+
 <p align="center" style="padding: 10px;">
   <a href="https://git-scm.com/" style="padding: 10px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
