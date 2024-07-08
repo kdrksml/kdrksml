@@ -95,6 +95,21 @@ Other Tools
     <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" width="150px">
   </a>
 </p>
+Fun Stuff
+<p align="left">
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="150px">
+  </a>
+  <a href="https://yarnpkg.com/">
+    <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" width="150px">
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="150px">
+  </a>
+  <a href="https://www.adobe.com/products/xd.html">
+    <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" width="150px">
+  </a>
+</p>
 
 
 ## Contact Me
