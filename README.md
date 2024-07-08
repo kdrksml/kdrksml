@@ -11,7 +11,7 @@ I'm a Computer Engineer specializing in Data Science. I'm passionate about analy
 <div align="center">Data Science</div>
 
 <p align="center" style="padding: 10px;">
-  <a href="https://www.python.org/" style="padding: 10px;">
+  <a href="https://www.python.org/" style="padding: 10;">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://www.tensorflow.org/" style="padding: 10px;">
